@@ -1,0 +1,233 @@
+"","Treatment","Genotype","Class","SPAD","Dry.Biomass","Replicate"
+"1","Control","G1","Wild Progenitor",35.5,4.9,1
+"2","Control","G1","Wild Progenitor",40.6,5.01,2
+"3","Control","G1","Wild Progenitor",37.1,4.23,3
+"4","Control","G1","Wild Progenitor",37,3.74,4
+"5","Control","G1","Wild Progenitor",29.5,4.03,5
+"6","Control","G1","Wild Progenitor",37.2,4.36,6
+"7","Herbivory","G1","Wild Progenitor",34.5,5.48,1
+"8","Herbivory","G1","Wild Progenitor",36.1,4.31,2
+"9","Herbivory","G1","Wild Progenitor",37.9,4.95,3
+"10","Herbivory","G1","Wild Progenitor",35.5,3.34,4
+"11","Herbivory","G1","Wild Progenitor",33,4.38,5
+"12","Herbivory","G1","Wild Progenitor",45.4,3.88,6
+"13","Flooding","G1","Wild Progenitor",29.4,2.77,1
+"14","Flooding","G1","Wild Progenitor",32,2.93,2
+"15","Flooding","G1","Wild Progenitor",36.1,3.18,3
+"16","Flooding","G1","Wild Progenitor",31.6,2.83,4
+"17","Flooding","G1","Wild Progenitor",31.5,2.06,5
+"18","Flooding","G1","Wild Progenitor",33.1,2.31,6
+"19","FloodingHerbivory","G1","Wild Progenitor",26.9,3.56,1
+"20","FloodingHerbivory","G1","Wild Progenitor",34.1,3.12,2
+"21","FloodingHerbivory","G1","Wild Progenitor",32.6,2.08,3
+"22","FloodingHerbivory","G1","Wild Progenitor",30.7,1.68,4
+"23","FloodingHerbivory","G1","Wild Progenitor",32.1,2.41,5
+"24","FloodingHerbivory","G1","Wild Progenitor",29.4,1.21,6
+"25","Control","G2","Wild Progenitor",40.1,3.26,1
+"26","Control","G2","Wild Progenitor",31.3,2.67,2
+"27","Control","G2","Wild Progenitor",41,3.18,3
+"28","Control","G2","Wild Progenitor",37.4,5.3,4
+"29","Control","G2","Wild Progenitor",31.2,3.07,5
+"30","Control","G2","Wild Progenitor",39.9,2.43,6
+"31","Herbivory","G2","Wild Progenitor",34.9,3.17,1
+"32","Herbivory","G2","Wild Progenitor",33.3,2.6,2
+"33","Herbivory","G2","Wild Progenitor",33,3.69,3
+"34","Herbivory","G2","Wild Progenitor",42.9,3.01,4
+"35","Herbivory","G2","Wild Progenitor",35.7,2.37,5
+"36","Herbivory","G2","Wild Progenitor",38.3,2.64,6
+"37","Flooding","G2","Wild Progenitor",28,1.66,1
+"38","Flooding","G2","Wild Progenitor",29.1,2.03,2
+"39","Flooding","G2","Wild Progenitor",25.4,1.5,3
+"40","Flooding","G2","Wild Progenitor",32.3,1.18,4
+"41","Flooding","G2","Wild Progenitor",30.3,0.85,5
+"42","Flooding","G2","Wild Progenitor",34.7,1.9,6
+"43","FloodingHerbivory","G2","Wild Progenitor",30,1.06,1
+"44","FloodingHerbivory","G2","Wild Progenitor",29.2,1.17,2
+"45","FloodingHerbivory","G2","Wild Progenitor",24.9,1.57,3
+"46","FloodingHerbivory","G2","Wild Progenitor",23.1,2.05,4
+"47","FloodingHerbivory","G2","Wild Progenitor",24.8,1.52,5
+"48","FloodingHerbivory","G2","Wild Progenitor",20.5,1.05,6
+"49","Control","G3","Wild",39.7,6.98,1
+"50","Control","G3","Wild",37,3.64,2
+"51","Control","G3","Wild",35.8,5.54,3
+"52","Control","G3","Wild",31.5,4.42,4
+"53","Control","G3","Wild",37.7,5.69,5
+"54","Control","G3","Wild",34.2,6.05,6
+"55","Herbivory","G3","Wild",45.1,5.25,1
+"56","Herbivory","G3","Wild",38.2,6.23,2
+"57","Herbivory","G3","Wild",32,5.1,3
+"58","Herbivory","G3","Wild",47,6.28,4
+"59","Herbivory","G3","Wild",36.1,4.3,5
+"60","Herbivory","G3","Wild",40.9,3.46,6
+"61","Flooding","G3","Wild",29.4,2.59,1
+"62","Flooding","G3","Wild",31.5,3.34,2
+"63","Flooding","G3","Wild",28.7,2.94,3
+"64","Flooding","G3","Wild",29.9,1,4
+"65","Flooding","G3","Wild",33.3,3.65,5
+"66","Flooding","G3","Wild",29.7,2.93,6
+"67","FloodingHerbivory","G3","Wild",35,3.56,2
+"68","FloodingHerbivory","G3","Wild",34.8,3.66,3
+"69","FloodingHerbivory","G3","Wild",37.5,3.53,4
+"70","FloodingHerbivory","G3","Wild",29.5,4.44,5
+"71","FloodingHerbivory","G3","Wild",28.5,3.66,6
+"72","FloodingHerbivory","G3","Wild",26,3.62,1
+"73","Control","G4","Wild",26.8,2.6,2
+"74","Control","G4","Wild",37.3,5.56,3
+"75","Control","G4","Wild",34.2,4.8,4
+"76","Control","G4","Wild",39.3,4.73,5
+"77","Control","G4","Wild",36.4,3.96,6
+"78","Control","G4","Wild",39.7,4.1,1
+"79","Herbivory","G4","Wild",33.2,4.87,2
+"80","Herbivory","G4","Wild",28.9,5.5,3
+"81","Herbivory","G4","Wild",30,0.91,4
+"82","Herbivory","G4","Wild",34.7,6.15,5
+"83","Herbivory","G4","Wild",46.1,6.65,6
+"84","Herbivory","G4","Wild",32.6,3.96,1
+"85","Flooding","G4","Wild",30.1,3.16,2
+"86","Flooding","G4","Wild",25.1,2.12,3
+"87","Flooding","G4","Wild",26.5,2.89,4
+"88","Flooding","G4","Wild",27.3,2.62,5
+"89","Flooding","G4","Wild",25.9,2.85,6
+"90","Flooding","G4","Wild",34.7,1.9,1
+"91","Control","G5","Mexican landrace",34.3,4.77,3
+"92","Control","G5","Mexican landrace",33.2,5.04,4
+"93","Control","G5","Mexican landrace",34.6,3.8,5
+"94","Control","G5","Mexican landrace",30.1,3.99,6
+"95","Control","G5","Mexican landrace",31.6,4.05,1
+"96","Control","G5","Mexican landrace",32.1,3.54,2
+"97","Herbivory","G5","Mexican landrace",33.3,3.55,3
+"98","Herbivory","G5","Mexican landrace",34.6,4.22,4
+"99","Herbivory","G5","Mexican landrace",28.6,3.67,5
+"100","Herbivory","G5","Mexican landrace",35.8,4.15,6
+"101","Herbivory","G5","Mexican landrace",44.3,3.58,1
+"102","Herbivory","G5","Mexican landrace",35.8,3.56,2
+"103","Flooding","G5","Mexican landrace",25.8,3.52,3
+"104","Flooding","G5","Mexican landrace",29.8,2.54,4
+"105","Flooding","G5","Mexican landrace",22,2.78,5
+"106","Flooding","G5","Mexican landrace",26.1,2.52,6
+"107","Flooding","G5","Mexican landrace",23.7,2.13,1
+"108","Flooding","G5","Mexican landrace",27.1,2.73,2
+"109","FloodingHerbivory","G5","Mexican landrace",26.1,2.33,3
+"110","FloodingHerbivory","G5","Mexican landrace",24.4,2.5,4
+"111","FloodingHerbivory","G5","Mexican landrace",32.9,1.29,5
+"112","FloodingHerbivory","G5","Mexican landrace",29.1,2.88,6
+"113","FloodingHerbivory","G5","Mexican landrace",19,1.55,1
+"114","FloodingHerbivory","G5","Mexican landrace",29,2.35,2
+"115","Control","G6","American landrace",25.7,4.33,3
+"116","Control","G6","American landrace",24.6,6.63,4
+"117","Control","G6","American landrace",20.9,6.37,5
+"118","Control","G6","American landrace",26.7,6.17,6
+"119","Control","G6","American landrace",24.5,6.95,1
+"120","Control","G6","American landrace",28.5,5.85,2
+"121","Herbivory","G6","American landrace",24.7,5.53,3
+"122","Herbivory","G6","American landrace",33.8,4.79,4
+"123","Herbivory","G6","American landrace",22.9,6.84,5
+"124","Herbivory","G6","American landrace",24.6,6.07,6
+"125","Herbivory","G6","American landrace",28.7,6.02,1
+"126","Herbivory","G6","American landrace",NA,3.48,2
+"127","Flooding","G6","American landrace",22.2,1.72,3
+"128","Flooding","G6","American landrace",21.3,2.8,4
+"129","Flooding","G6","American landrace",21.5,3.82,5
+"130","Flooding","G6","American landrace",15.5,2.91,6
+"131","Flooding","G6","American landrace",18.1,2.86,1
+"132","Flooding","G6","American landrace",23.7,1.31,2
+"133","FloodingHerbivory","G6","American landrace",24,4.51,3
+"134","FloodingHerbivory","G6","American landrace",25.4,1.9,4
+"135","FloodingHerbivory","G6","American landrace",14.8,3.42,5
+"136","FloodingHerbivory","G6","American landrace",23.5,1.73,6
+"137","FloodingHerbivory","G6","American landrace",9.2,4.41,1
+"138","FloodingHerbivory","G6","American landrace",17.1,2.46,2
+"139","Control","G7","American landrace",32.5,7.36,3
+"140","Control","G7","American landrace",31.1,4.37,4
+"141","Control","G7","American landrace",32.7,4.76,5
+"142","Control","G7","American landrace",32.6,5.61,6
+"143","Herbivory","G7","American landrace",33.4,4.77,1
+"144","Herbivory","G7","American landrace",25.8,3.62,2
+"145","Herbivory","G7","American landrace",34.5,5.98,3
+"146","Herbivory","G7","American landrace",28.6,5.48,4
+"147","Herbivory","G7","American landrace",35,3.78,5
+"148","Flooding","G7","American landrace",24.4,6.24,6
+"149","Flooding","G7","American landrace",25.9,5.46,1
+"150","Flooding","G7","American landrace",17.6,2.96,2
+"151","Flooding","G7","American landrace",21.5,5.14,3
+"152","FloodingHerbivory","G7","American landrace",21.7,4.83,4
+"153","FloodingHerbivory","G7","American landrace",21.4,2.45,5
+"154","FloodingHerbivory","G7","American landrace",21.4,4.08,6
+"155","FloodingHerbivory","G7","American landrace",22.2,4.03,1
+"156","FloodingHerbivory","G7","American landrace",26,3.44,2
+"157","Control","G8","Inbred landrace",22.2,5.51,3
+"158","Control","G8","Inbred landrace",26.3,5.37,4
+"159","Control","G8","Inbred landrace",20,3.7,5
+"160","Control","G8","Inbred landrace",21.1,5.11,6
+"161","Control","G8","Inbred landrace",25,2.71,1
+"162","Control","G8","Inbred landrace",21.9,6.12,2
+"163","Herbivory","G8","Inbred landrace",35.1,7.07,3
+"164","Herbivory","G8","Inbred landrace",23.1,4.4,4
+"165","Herbivory","G8","Inbred landrace",21.8,4.01,5
+"166","Herbivory","G8","Inbred landrace",19.9,4.22,6
+"167","Herbivory","G8","Inbred landrace",26,1.55,1
+"168","Herbivory","G8","Inbred landrace",21.8,3.19,2
+"169","Flooding","G8","Inbred landrace",13.2,1.68,3
+"170","Flooding","G8","Inbred landrace",25.3,2.06,4
+"171","Flooding","G8","Inbred landrace",11.6,1.61,1
+"172","Flooding","G8","Inbred landrace",25,0.56,2
+"173","Flooding","G8","Inbred landrace",20.2,1.18,3
+"174","Flooding","G8","Inbred landrace",21.6,1.17,4
+"175","FloodingHerbivory","G8","Inbred landrace",21.4,1.46,1
+"176","FloodingHerbivory","G8","Inbred landrace",16.2,1.09,2
+"177","FloodingHerbivory","G8","Inbred landrace",23.2,0.74,3
+"178","FloodingHerbivory","G8","Inbred landrace",24.4,1.59,4
+"179","FloodingHerbivory","G8","Inbred landrace",9.2,1.33,5
+"180","FloodingHerbivory","G8","Inbred landrace",21.9,1.02,1
+"181","Control","G9","InbredModern",23.1,5.68,2
+"182","Control","G9","InbredModern",21.7,4.63,3
+"183","Control","G9","InbredModern",18.6,5.11,4
+"184","Control","G9","InbredModern",22.4,4.73,5
+"185","Control","G9","InbredModern",17.5,4.91,1
+"186","Control","G9","InbredModern",24.6,4.95,2
+"187","Herbivory","G9","InbredModern",30.9,3.78,3
+"188","Herbivory","G9","InbredModern",21.1,6.17,4
+"189","Herbivory","G9","InbredModern",24,5.38,5
+"190","Herbivory","G9","InbredModern",23.6,5.46,6
+"191","Herbivory","G9","InbredModern",24.9,4.85,1
+"192","Herbivory","G9","InbredModern",15.3,4.66,2
+"193","Flooding","G9","InbredModern",15,3.9,3
+"194","Flooding","G9","InbredModern",14.3,4.14,4
+"195","Flooding","G9","InbredModern",12.4,4.67,5
+"196","Flooding","G9","InbredModern",16.6,4.21,6
+"197","Flooding","G9","InbredModern",20.3,4.82,1
+"198","Flooding","G9","InbredModern",22.2,2.67,2
+"199","FloodingHerbivory","G9","InbredModern",12.3,3.71,3
+"200","FloodingHerbivory","G9","InbredModern",14.1,2.39,4
+"201","FloodingHerbivory","G9","InbredModern",13.9,3.23,5
+"202","FloodingHerbivory","G9","InbredModern",14.4,2.29,6
+"203","FloodingHerbivory","G9","InbredModern",18.6,3.73,1
+"204","FloodingHerbivory","G9","InbredModern",15.1,3.34,2
+"205","Control","G10","Conventional hybrid",26.4,12.07,3
+"206","Control","G10","Conventional hybrid",24.8,10.91,4
+"207","Control","G10","Conventional hybrid",25.4,8.8,5
+"208","Control","G10","Conventional hybrid",28.7,5.36,6
+"209","Control","G10","Conventional hybrid",22.4,6.7,1
+"210","Control","G10","Conventional hybrid",22.8,10.92,2
+"211","Herbivory","G10","Conventional hybrid",24.9,8.02,3
+"212","Herbivory","G10","Conventional hybrid",22.2,6.97,4
+"213","Herbivory","G10","Conventional hybrid",24.3,9.61,5
+"214","Herbivory","G10","Conventional hybrid",27.1,8.41,6
+"215","Herbivory","G10","Conventional hybrid",30.1,7.13,1
+"216","Herbivory","G10","Conventional hybrid",26.6,6.75,2
+"217","Flooding","G10","Conventional hybrid",23.8,8.22,3
+"218","Flooding","G10","Conventional hybrid",28.6,4.68,4
+"219","Flooding","G10","Conventional hybrid",21.7,5.72,5
+"220","Flooding","G10","Conventional hybrid",24,8.26,6
+"221","Flooding","G10","Conventional hybrid",28.7,5.29,1
+"222","Flooding","G10","Conventional hybrid",24.3,5.55,2
+"223","FloodingHerbivory","G10","Conventional hybrid",24.1,5.46,3
+"224","FloodingHerbivory","G10","Conventional hybrid",24.1,5.46,4
+"225","FloodingHerbivory","G10","Conventional hybrid",22,7.01,5
+"226","FloodingHerbivory","G10","Conventional hybrid",21.5,4.64,6
+"227","FloodingHerbivory","G10","Conventional hybrid",23.6,5.65,1
+"228","FloodingHerbivory","G10","Conventional hybrid",21.5,4.9,2
+"229","Bulk ","Bulk ","Bulk",0,0,3
+"230","Bulk ","Bulk ","Bulk",0,0,4
+"231","Bulk ","Bulk ","Bulk",0,0,5
+"232","Bulk ","Bulk ","Bulk",0,0,6

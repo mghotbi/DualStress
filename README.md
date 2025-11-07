@@ -1,3 +1,4 @@
+
 # DualStress (biotic + abiotic stressors)
 
 **Background and aim:**
@@ -22,7 +23,6 @@ Cross-domain integration and redox-active taxa: DIABLO integration revealed tigh
 
 
 <img width="320" height="1254" alt="image" src="https://github.com/user-attachments/assets/96a0d724-15cc-449e-aa89-052e5391358b" />
-
 
 
 
