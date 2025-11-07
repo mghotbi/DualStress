@@ -12,7 +12,12 @@ Soil redox and nutrient shifts under DualStress: DualStress markedly reduced red
 
 
 
-<img width="477" height="569" alt="image" src="https://github.com/user-attachments/assets/d3460fdd-728c-488f-802c-f44184ab4c1c" />
+<img width="477" height="669" alt="image" src="https://github.com/user-attachments/assets/d3460fdd-728c-488f-802c-f44184ab4c1c" />
+
+
+
+
+<img width="450" height="607" alt="image" src="https://github.com/user-attachments/assets/de9aa798-62fe-47f7-a5cf-75e71499b377" />
 
 Cross-domain integration and redox-active microbial taxa: DIABLO-based multi-omics integration revealed block-specific cross-domain correlations linking microbial, soil, plant, and VOC profiles (Fig 4). Notably, the abundance of an Anaeromyxobacter amplicon sequence variant (ASV) correlated positively with Fe²⁺ and Mn²⁺ concentrations, suggesting a role in metal- and nitrogen-coupled redox cycling. Anaeromyxobacter functions as a biogeochemical redox stabilizer, oxidizing root-derived carbon while reducing metals and nitrate, thereby lowering local redox potential. Such activity likely dampens ROS/RNS accumulation and indirectly protects roots from oxidative injury, an emergent example of microbiome-mediated redox buffering.
 
