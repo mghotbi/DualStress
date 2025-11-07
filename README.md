@@ -21,10 +21,8 @@ Cross-domain integration and redox-active taxa: DIABLO integration revealed tigh
 
 
 
-
-<img width="320" height="754" alt="image" src="https://github.com/user-attachments/assets/6ef0353d-1237-4b5e-9211-063a7b574a8b" />
-
+<img width="120" height="254" alt="image" src="https://github.com/user-attachments/assets/96a0d724-15cc-449e-aa89-052e5391358b" />
 
 
 
-<img width="458" height="519" alt="image" src="https://github.com/user-attachments/assets/494cbac5-af2b-45e0-a591-fb29189eebdf" />
+
