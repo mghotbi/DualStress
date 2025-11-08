@@ -11,7 +11,7 @@ Our preliminary work therefore aimed to:
 
 ---
 
-## ⚗️ Method
+##  Method
 
 A factorial greenhouse experiment evaluated **10 genotypes** spanning the domestication continuum — from *Zea mays ssp. parviglumis* (wild progenitor), *Zea diploperennis* (wild relative), and landraces (Mexican & American) to modern inbreds and an F₁ hybrid.  
 
@@ -33,9 +33,9 @@ Cross-domain integration was performed using **mixOmics/DIABLO**<sup>79</sup> to
 
 ---
 
-## 🌍 Results and Discussion
+##  Results and Discussion
 
-### 🧪 Soil Redox and Nutrient Shifts
+###  Soil Redox and Nutrient Shifts
 DualStress markedly **reduced redox potential**, inducing reductive dissolution of Fe(III) and Mn(IV) oxides and accumulation of Fe²⁺, Mn²⁺, and NH₄⁺, while NO₃⁻ declined — indicating enhanced **denitrification** and weakened buffering capacity.
 
 <p align="center">
@@ -47,7 +47,7 @@ DualStress markedly **reduced redox potential**, inducing reductive dissolution 
   <em>Figure 1. Overview of Soil Redox and Nutrient Shifts.</em>
 </p>
 
-### 🌿 Chlorophyll Content Across the Maize Domestication Gradient
+###  Chlorophyll Content Across the Maize Domestication Gradient
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ec8640c2-e2a5-41de-8d92-3f531ed6f7de" width="70%" alt="Chlorophyll (SPAD) content across maize domestication gradient">
@@ -78,7 +78,7 @@ However, VOC spectra alone could not explain resilience differences, emphasizing
 
 
 
-### 🌱 Microbial and Functional Responses
+###  Microbial and Functional Responses
 Wild and landrace maize maintained higher chlorophyll content and distinct microbial profiles.  
 PERMANOVA confirmed significant **genotype × treatment** effects on both bacterial/archaeal and fungal communities.  
 Fungal richness and *nosZ*/*acdS* gene abundance **declined along domestication**, revealing erosion of redox-buffering microbial functions.
@@ -102,7 +102,7 @@ This pattern suggests that **ancestral maize lines retain stronger microbial par
 
 Network analyses showed that **wild maize harbored hub-rich, highly connected microbiomes**, whereas hybrids exhibited **simplified and redundant networks**.
 
-## 🕸️ Network Complexity and Functional Connectivity
+##  Network Complexity and Functional Connectivity
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/761638fa-c182-4415-8340-91cdb0d80062" width="75%" alt="Microbial network complexity across domestication gradient">
@@ -121,7 +121,7 @@ These results indicate that **network complexity is a key ecological signature o
 
 ---
 
-### 🔬 Cross-Domain Integration and Redox-Active Taxa
+###  Cross-Domain Integration and Redox-Active Taxa
 
 
 <p align="center">
