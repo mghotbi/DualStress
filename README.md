@@ -43,10 +43,9 @@ DualStress markedly **reduced redox potential**, inducing reductive dissolution 
 </p>
 
 <p align="center">
-  <em>Figure 1. Overview of DualStress experimental design integrating plant, soil, and microbial responses.</em>
+  <em>Figure 1. Overview of Soil Redox and Nutrient Shifts.</em>
 </p>
 
-![Redox shifts](<img width="432" height="199" alt="Image" src="https://github.com/user-attachments/assets/c80c02a7-1589-4e6c-a647-c8bf8b018b07" />)
 
 ---
 
