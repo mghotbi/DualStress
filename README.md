@@ -1,9 +1,9 @@
 # 🌾 DualStress (Biotic + Abiotic Stressors)
 
-> **Background and Aim**  
-> Climate change is intensifying rainfall extremes in major maize-growing regions, increasing the likelihood of concurrent **flooding and herbivory**—a dual stress that disrupts redox balance and undermines yield stability<sup>5,12</sup>.  
-> While maize responses to individual stresses are well studied, the coordination of **redox buffering between plant genotype and rhizosphere microbiome** under combined stress remains poorly understood<sup>38,82</sup>.  
-> Repeated domestication and breeding have eroded both genetic and microbial diversity<sup>4,17</sup>, weakening ancestral plant–microbe alliances crucial for oxidative resilience.  
+ **Background and Aim**  
+Climate change is intensifying rainfall extremes in major maize-growing regions, increasing the likelihood of concurrent **flooding and herbivory**—a dual stress that disrupts redox balance and undermines yield stability<sup>5,12</sup>.  
+While maize responses to individual stresses are well studied, the coordination of **redox buffering between plant genotype and rhizosphere microbiome** under combined stress remains poorly understood<sup>38,82</sup>.  
+Repeated domestication and breeding have eroded both genetic and microbial diversity<sup>4,17</sup>, weakening ancestral plant–microbe alliances crucial for oxidative resilience.  
 
 Our preliminary work therefore aimed to:  
 1. Quantify how combined flooding–herbivory stress (**DualStress**) alters **soil redox chemistry**, **volatile organic compound (VOC) signaling**, and **rhizosphere microbial structure** along the maize domestication gradient.  
