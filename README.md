@@ -87,15 +87,42 @@ This pattern suggests that **ancestral maize lines retain stronger microbial par
 
 Network analyses showed that **wild maize harbored hub-rich, highly connected microbiomes**, whereas hybrids exhibited **simplified and redundant networks**.
 
-![Network complexity](figs/Fig3_networks.png)
+## 🕸️ Network Complexity and Functional Connectivity
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/761638fa-c182-4415-8340-91cdb0d80062" width="85%" alt="Microbial network complexity across domestication gradient">
+</p>
+
+<p align="center">
+  <em>Figure 5. ancestral genotypes maintain dense microbial interaction networks.  
+  Wild and landrace genotypes exhibit highly connected, hub-rich networks, whereas inbreds and hybrids display simplified, fragmented structures with reduced centrality and modularity.  
+  The loss of network connectivity reflects erosion of cooperative microbial interactions linked to redox buffering and stress resilience.</em>
+</p>
+
+
+Network analyses revealed that **ancestral genotypes maintain dense microbial interaction networks** with high harmonic centrality and node connectivity, supporting robust redox regulation.  
+In contrast, **modern hybrids exhibit fragmented and less connected networks**, suggesting a loss of functional redundancy and cooperative buffering capacity.  
+These results indicate that **network complexity is a key ecological signature of oxidative resilience** across maize evolution.
 
 ---
 
 ### 🔬 Cross-Domain Integration and Redox-Active Taxa
-DIABLO integration revealed tight linkages between microbial, soil, plant, and VOC traits.  
-An *Anaeromyxobacter* ASV correlated with Fe²⁺ and Mn²⁺, suggesting a role in **metal- and nitrogen-coupled redox cycling**—oxidizing root-derived C while reducing Fe and nitrate, thus stabilizing redox potential and mitigating oxidative stress<sup>87</sup>.
 
-![DIABLO integration](figs/Fig4_DIABLO.png)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/239105e9-2d84-4217-85d2-2dc365d48a25" width="80%" alt="DIABLO cross-domain integration of plant, soil, microbial, and VOC data">
+</p>
+
+<p align="center">
+  <em>Figure 4. DIABLO integration linking microbial, soil, plant, and VOC datasets.  
+  Cross-domain correlations reveal coordinated shifts in redox-active traits under DualStress.  
+  An <i>Anaeromyxobacter</i> ASV correlated with Fe²⁺ and Mn²⁺ concentrations, suggesting a role in coupled Fe–N redox cycling and oxidative stress mitigation.</em>
+</p>
+
+
+DIABLO integration highlighted **tight coupling among plant physiology, soil redox chemistry, and microbiome structure**.  
+An *Anaeromyxobacter* ASV strongly co-varied with Fe²⁺ and Mn²⁺ levels, indicating participation in **metal- and nitrogen-linked redox buffering**.  
+These results underscore that oxidative resilience arises from **genotype × microbiome × environment** interactions coordinating system-level redox homeostasis.
 
 ---
 
