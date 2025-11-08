@@ -142,11 +142,10 @@ These results underscore that oxidative resilience arises from **genotype × mic
 ---
 
 ### 🌾 Conclusions
-Ancestral genotypes retain stronger antioxidant signaling and microbially mediated stress-buffering networks.  
-Domestication has simplified the rhizosphere, reducing **microbial network complexity** and **functional diversity** essential for oxidative resilience.  
-Future work will directly quantify **ROS/RNS in maize roots** and integrate **metagenomic/metatranscriptomic** data to map active microbial pathways tied to host antioxidant systems.
 
-> **Takeaway:** Oxidative resilience arises from *genotype × microbiome × environment* interactions — a foundation for **holobiont-guided, redox-resilient breeding**.
+Domestication has simplified the rhizosphere, reducing **microbial network complexity** and **functional diversity** essential for oxidative resilience.  
+
+
 
 ---
 
