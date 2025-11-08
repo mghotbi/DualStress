@@ -41,6 +41,8 @@ DualStress markedly **reduced redox potential**, inducing reductive dissolution 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c80c02a7-1589-4e6c-a647-c8bf8b018b07" width="70%" alt="DualStress schematic">
 </p>
+📂 [(Google Drive)](https://drive.google.com/drive/folders/1jFDAiELmzVlpS2oloEV73UagBMa4jPuP?usp=sharing)
+
 
 <p align="center">
   <em>Figure 1. Overview of Soil Redox and Nutrient Shifts.</em>
