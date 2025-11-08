@@ -105,7 +105,7 @@ Network analyses showed that **wild maize harbored hub-rich, highly connected mi
 ## 🕸️ Network Complexity and Functional Connectivity
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/761638fa-c182-4415-8340-91cdb0d80062" width="85%" alt="Microbial network complexity across domestication gradient">
+  <img src="https://github.com/user-attachments/assets/761638fa-c182-4415-8340-91cdb0d80062" width="75%" alt="Microbial network complexity across domestication gradient">
 </p>
 
 <p align="center">
@@ -125,7 +125,7 @@ These results indicate that **network complexity is a key ecological signature o
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/239105e9-2d84-4217-85d2-2dc365d48a25" width="80%" alt="DIABLO cross-domain integration of plant, soil, microbial, and VOC data">
+  <img src="https://github.com/user-attachments/assets/239105e9-2d84-4217-85d2-2dc365d48a25" width="70%" alt="DIABLO cross-domain integration of plant, soil, microbial, and VOC data">
 </p>
 
 <p align="center">
