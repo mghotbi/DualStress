@@ -38,6 +38,14 @@ Cross-domain integration was performed using **mixOmics/DIABLO**<sup>79</sup> to
 ### 🧪 Soil Redox and Nutrient Shifts
 DualStress markedly **reduced redox potential**, inducing reductive dissolution of Fe(III) and Mn(IV) oxides and accumulation of Fe²⁺, Mn²⁺, and NH₄⁺, while NO₃⁻ declined — indicating enhanced **denitrification** and weakened buffering capacity.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c80c02a7-1589-4e6c-a647-c8bf8b018b07" width="70%" alt="DualStress schematic">
+</p>
+
+<p align="center">
+  <em>Figure 1. Overview of DualStress experimental design integrating plant, soil, and microbial responses.</em>
+</p>
+
 ![Redox shifts](<img width="432" height="199" alt="Image" src="https://github.com/user-attachments/assets/c80c02a7-1589-4e6c-a647-c8bf8b018b07" />)
 
 ---
