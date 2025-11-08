@@ -46,7 +46,7 @@ DualStress markedly **reduced redox potential**, inducing reductive dissolution 
   <em>Figure 1. Overview of Soil Redox and Nutrient Shifts.</em>
 </p>
 
-## 🌿 Chlorophyll Content Across the Maize Domestication Gradient
+### 🌿 Chlorophyll Content Across the Maize Domestication Gradient
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ec8640c2-e2a5-41de-8d92-3f531ed6f7de" width="70%" alt="Chlorophyll (SPAD) content across maize domestication gradient">
