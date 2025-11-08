@@ -60,14 +60,30 @@ However, VOC spectra alone could not explain resilience differences, emphasizing
 <p align="center">
   <em>Figure 2. Genotype-specific VOC emission profiles under DualStress. Wild and landrace maize emit a broader and more diverse suite of stress-induced volatiles compared to modern hybrids, reflecting stronger antioxidant and signaling capacity.</em>
 </p>
----
+
+
 
 ### 🌱 Microbial and Functional Responses
 Wild and landrace maize maintained higher chlorophyll content and distinct microbial profiles.  
 PERMANOVA confirmed significant **genotype × treatment** effects on both bacterial/archaeal and fungal communities.  
 Fungal richness and *nosZ*/*acdS* gene abundance **declined along domestication**, revealing erosion of redox-buffering microbial functions.
 
-![Fungal richness]([Mitra_Figure2_DFG_reduced4.pdf](https://github.com/user-attachments/files/23432305/Mitra_Figure2_DFG_reduced4.pdf))
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f6ee1e8f-36bd-4eb8-85dd-a3248e9558cc" width="80%" alt="PCoA and functional gene trends (nosZ, acdS)">
+</p>
+
+<p align="center">
+  <em>Figure 3. (A) PCoA of bacterial (16S) and fungal (ITS) communities showing clear separation by treatment (T) and domestication (D).  
+  (B) Relative abundance of *nosZ* (denitrifiers), *acdS* (ACC deaminase producers), 16S rRNA (bacterial), and ITS (fungal) genes modeled using GAMs (±95% CI).  
+  (C) Core fungal families (≥80% prevalence, ≥10 reads) across maize domestication groups and stress treatments.</em>
+</p>
+
+
+Wild and landrace genotypes supported distinct bacterial and fungal assemblages under DualStress, with higher *nosZ* (denitrification) and *acdS* (ACC deaminase) abundance compared to inbreds and hybrids.  
+This pattern suggests that **ancestral maize lines retain stronger microbial partners for redox regulation and stress mitigation**, whereas modern breeding has led to **simplified, functionally constrained microbiomes**.
+
+
 
 Network analyses showed that **wild maize harbored hub-rich, highly connected microbiomes**, whereas hybrids exhibited **simplified and redundant networks**.
 
