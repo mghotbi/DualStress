@@ -46,6 +46,21 @@ DualStress markedly **reduced redox potential**, inducing reductive dissolution 
   <em>Figure 1. Overview of Soil Redox and Nutrient Shifts.</em>
 </p>
 
+## 🌿 Chlorophyll Content Across the Maize Domestication Gradient
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ec8640c2-e2a5-41de-8d92-3f531ed6f7de" width="70%" alt="Chlorophyll (SPAD) content across maize domestication gradient">
+</p>
+
+<p align="center">
+  <em>Figure 1. Chlorophyll (SPAD) index of maize genotypes spanning the domestication gradient under control (light) and DualStress (dark) conditions.  
+  Wild and landrace genotypes maintained significantly higher chlorophyll levels compared to inbreds and hybrids (letters denote Tukey’s HSD groups, P &lt; 0.05), indicating stronger physiological resilience to stress.</em>
+</p>
+
+---
+
+Wild and landrace maize retained higher chlorophyll content under flooding–herbivory stress, reflecting **more efficient photosynthetic performance and antioxidant capacity**.  
+Modern inbreds and hybrids exhibited **reduced chlorophyll retention**, consistent with diminished stress tolerance and weakened redox homeostasis.
 
 ---
 
@@ -137,8 +152,8 @@ Future work will directly quantify **ROS/RNS in maize roots** and integrate **me
 
 ## 📂 Data Availability
 
-All data supporting this study are available via Google Drive:  
-👉 [**Download Dataset**](https://drive.google.com/drive/folders/1jFDAiELmzVlpS2oloEV73UagBMa4jPuP?usp=sharing)
+ data supporting this study are available :  
+👉 [**Dataset**](https://drive.google.com/drive/folders/1jFDAiELmzVlpS2oloEV73UagBMa4jPuP?usp=sharing)
 
 or through the main GitHub repository:  
 🔗 [https://github.com/mghotbi/DspikeIn](https://github.com/mghotbi/DspikeIn)
