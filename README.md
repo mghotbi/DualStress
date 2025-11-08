@@ -155,6 +155,3 @@ Future work will directly quantify **ROS/RNS in maize roots** and integrate **me
 
  data supporting this study are available :  
 👉 [**Dataset**](https://drive.google.com/drive/folders/1jFDAiELmzVlpS2oloEV73UagBMa4jPuP?usp=sharing)
-
-or through the main GitHub repository:  
-🔗 [https://github.com/mghotbi/DspikeIn](https://github.com/mghotbi/DspikeIn)
