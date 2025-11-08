@@ -3,7 +3,7 @@
  **Background and Aim**  
 Climate change is intensifying rainfall extremes in major maize-growing regions, increasing the likelihood of concurrent **flooding and herbivory**—a dual stress that disrupts redox balance and undermines yield stability<sup>5,12</sup>.  
 While maize responses to individual stresses are well studied, the coordination of **redox buffering between plant genotype and rhizosphere microbiome** under combined stress remains poorly understood<sup>38,82</sup>.  
-Repeated domestication and breeding have eroded both genetic and microbial diversity<sup>4,17</sup>, weakening ancestral plant–microbe alliances crucial for oxidative resilience.  
+Repeated domestication and breeding have eroded both genetic and microbial diversity<sup>4,17</sup>, weakening ancestral plant-microbe alliances crucial for oxidative resilience.  
 
 Our preliminary work therefore aimed to:  
 1. Quantify how combined flooding-herbivory stress (**DualStress**) alters **soil redox chemistry**, **volatile organic compound (VOC) signaling**, and **rhizosphere microbial structure** along the maize domestication gradient.  
@@ -24,7 +24,7 @@ A factorial greenhouse experiment evaluated **10 genotypes** spanning the domest
 **Measurements:**  
 - Plant performance: biomass, SPAD chlorophyll index  
 - Soil chemistry: pH, Eh, nutrients (Fe²⁺, Mn²⁺, NH₄⁺, NO₃⁻)  
-- VOCs: analyzed via SPME–GC–MS  
+- VOCs: analyzed via SPME-GC-MS  
 - Rhizosphere microbiome: 16S, ITS2, *nosZ*, *acdS* sequencing  
 
 Data were processed with **[DspikeIn](https://github.com/mghotbi/DspikeIn)**<sup>83</sup>, and community structure assessed via **PERMANOVA** and **co-abundance networks**<sup>84</sup>.  
@@ -49,12 +49,17 @@ DualStress markedly **reduced redox potential**, inducing reductive dissolution 
 
 ---
 
-### 🌸 Volatile Signaling and Genotype Responses
+###  Volatile Signaling and Genotype Responses
 Wild and landrace genotypes emitted a broader and richer blend of stress volatiles (e.g., **trans-α-bergamotene**, **(E)-β-farnesene**, **caryophyllene**, **indole**) than modern lines, supporting **semiochemical** signaling and **microbe-mediated communication**<sup>5,86</sup>.  
 However, VOC spectra alone could not explain resilience differences, emphasizing the need for **direct ROS/RNS phenotyping**.
 
-![VOC profiles](figs/Fig1B_VOC.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/599291f9-714c-41c6-bd20-89b6bf8ebdc5" width="70%" alt="VOC emission profiles">
+</p>
 
+<p align="center">
+  <em>Figure 2. Genotype-specific VOC emission profiles under DualStress. Wild and landrace maize emit a broader and more diverse suite of stress-induced volatiles compared to modern hybrids, reflecting stronger antioxidant and signaling capacity.</em>
+</p>
 ---
 
 ### 🌱 Microbial and Functional Responses
