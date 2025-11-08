@@ -6,7 +6,7 @@ While maize responses to individual stresses are well studied, the coordination 
 Repeated domestication and breeding have eroded both genetic and microbial diversity<sup>4,17</sup>, weakening ancestral plant–microbe alliances crucial for oxidative resilience.  
 
 Our preliminary work therefore aimed to:  
-1. Quantify how combined flooding–herbivory stress (**DualStress**) alters **soil redox chemistry**, **volatile organic compound (VOC) signaling**, and **rhizosphere microbial structure** along the maize domestication gradient.  
+1. Quantify how combined flooding-herbivory stress (**DualStress**) alters **soil redox chemistry**, **volatile organic compound (VOC) signaling**, and **rhizosphere microbial structure** along the maize domestication gradient.  
 2. Identify **microbial and functional gene signatures** (*nosZ*, *acdS*) linked to redox homeostasis and stress tolerance.
 
 ---
@@ -16,7 +16,7 @@ Our preliminary work therefore aimed to:
 A factorial greenhouse experiment evaluated **10 genotypes** spanning the domestication continuum — from *Zea mays ssp. parviglumis* (wild progenitor), *Zea diploperennis* (wild relative), and landraces (Mexican & American) to modern inbreds and an F₁ hybrid.  
 
 **Treatments:**  
-- 🌱 Control  
+-    Control  
 - 💧 Flooding  
 - 🐛 Herbivory (induced with *Helicoverpa zea* larvae, a jasmonate-inducing pest)  
 - ⚡ **DualStress (flooding + herbivory)**  
@@ -38,7 +38,7 @@ Cross-domain integration was performed using **mixOmics/DIABLO**<sup>79</sup> to
 ### 🧪 Soil Redox and Nutrient Shifts
 DualStress markedly **reduced redox potential**, inducing reductive dissolution of Fe(III) and Mn(IV) oxides and accumulation of Fe²⁺, Mn²⁺, and NH₄⁺, while NO₃⁻ declined — indicating enhanced **denitrification** and weakened buffering capacity.
 
-![Redox shifts](figs/Fig1A_redox.png)
+![Redox shifts](<img width="432" height="199" alt="Image" src="https://github.com/user-attachments/assets/c80c02a7-1589-4e6c-a647-c8bf8b018b07" />)
 
 ---
 
