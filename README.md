@@ -59,8 +59,6 @@ DualStress markedly **reduced redox potential**, inducing reductive dissolution 
   Wild and landrace genotypes maintained significantly higher chlorophyll levels compared to inbreds and hybrids (letters denote Tukey’s HSD groups, P &lt; 0.05), indicating stronger physiological resilience to stress.</em>
 </p>
 
----
-
 Wild and landrace maize retained higher chlorophyll content under flooding–herbivory stress, reflecting **more efficient photosynthetic performance and antioxidant capacity**.  
 Modern inbreds and hybrids exhibited **reduced chlorophyll retention**, consistent with diminished stress tolerance and weakened redox homeostasis.
 
