@@ -74,7 +74,7 @@ However, VOC spectra alone could not explain resilience differences, emphasizing
 
 <p align="center">
   <em>
-    Figure 2. Genotype-specific VOC emission profiles under DualStress.<br>
+    Figure 2. Genotype-specific VOC emission profiles under Stress.<br>
     <span style="font-size:90%;">
       Domestication gradient: Wild progenitor → Wild relative → Mexican landrace → American landrace → Inbred landrace → Inbred modern → Conventional hybrid
     </span><br><br>
