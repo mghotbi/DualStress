@@ -76,7 +76,7 @@ However, VOC spectra alone could not explain resilience differences, emphasizing
   <em>Figure 2. Genotype-specific VOC emission profiles under DualStress. Wild and landrace maize emit a broader and more diverse suite of stress-induced volatiles compared to modern hybrids, reflecting stronger antioxidant and signaling capacity.</em>
 </p>
 
-
+Wild progenitor → Wild relative → Mexican landrace → American landrace → Inbred landrace → Inbred modern → Conventional hybrid
 
 ###  Microbial and Functional Responses
 Wild and landrace maize maintained higher chlorophyll content and distinct microbial profiles.  
