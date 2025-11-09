@@ -74,13 +74,15 @@ However, VOC spectra alone could not explain resilience differences, emphasizing
 
 <p align="center">
   <em>
-    Figure 2. Genotype-specific VOC emission profiles under DualStress. 
+    Figure 2. Genotype-specific VOC emission profiles under DualStress.<br>
+    <span style="font-size:90%;">
+      Domestication gradient: Wild progenitor → Wild relative → Mexican landrace → American landrace → Inbred landrace → Inbred modern → Conventional hybrid
+    </span><br><br>
     Wild and landrace maize emit a broader and more diverse suite of stress-induced volatiles compared to modern hybrids, 
-    reflecting stronger antioxidant and signaling capacity. 
-    Symbols follow the domestication continuum from <strong>wild progenitors</strong> to <strong>modern hybrids</strong>, 
-    illustrating the evolutionary gradient of maize improvement (● Wild progenitor → ▲ Wild relative → ■ Mexican landrace → ✚ American landrace → ✕ Inbred landrace → ✶ Inbred modern → ⛢ Conventional hybrid).
+    reflecting stronger antioxidant and signaling capacity.
   </em>
 </p>
+
 
 
 
