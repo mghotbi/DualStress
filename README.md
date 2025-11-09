@@ -153,3 +153,6 @@ Domestication has simplified the rhizosphere, reducing **microbial network compl
 
  data supporting this study are available :  
 👉 [**Dataset**](https://drive.google.com/drive/folders/1jFDAiELmzVlpS2oloEV73UagBMa4jPuP?usp=sharing)
+© 2025 Mitra Ghotbi. All rights reserved.
+The data contained herein remain the intellectual property of the author.
+Requests for access or collaboration should be directed to the author.
