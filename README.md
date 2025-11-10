@@ -13,7 +13,7 @@ Our preliminary work therefore aimed to:
 
 ##  Method
 
-A factorial greenhouse experiment evaluated **10 genotypes** spanning the domestication continuum — from *Zea mays ssp. parviglumis* (wild progenitor), *Zea diploperennis* (wild relative), and landraces (Mexican & American) to modern inbreds and an F₁ hybrid.  
+A factorial greenhouse experiment evaluated **10 genotypes** spanning the domestication continuum, from *Zea mays ssp. parviglumis* (wild progenitor), *Zea diploperennis* (wild relative), and landraces (Mexican & American) to modern inbreds and an F₁ hybrid.  
 
 **Treatments:**  
 -  Control  
@@ -151,6 +151,10 @@ These results underscore that oxidative resilience arises from **genotype × mic
 
 ### 🌾 Conclusions
 
+=======
+### Conclusions
+Ancestral genotypes retain stronger antioxidant signaling and microbially mediated stress-buffering networks.  
+
 Domestication has simplified the rhizosphere, reducing **microbial network complexity** and **functional diversity** essential for oxidative resilience.  
 
 
@@ -160,6 +164,10 @@ Domestication has simplified the rhizosphere, reducing **microbial network compl
 ## 📂 Data Availability
 
  data supporting this study are available :  
+
 © 2025 Mitra Ghotbi. All rights reserved.
 The data contained herein remain the intellectual property of the author.
 Requests for access or collaboration should be directed to the author.
+=======
+ [**Dataset**](https://drive.google.com/drive/folders/1jFDAiELmzVlpS2oloEV73UagBMa4jPuP?usp=sharing)
+
