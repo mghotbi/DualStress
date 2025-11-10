@@ -16,7 +16,7 @@ Our preliminary work therefore aimed to:
 A factorial greenhouse experiment evaluated **10 genotypes** spanning the domestication continuum, from *Zea mays ssp. parviglumis* (wild progenitor), *Zea diploperennis* (wild relative), and landraces (Mexican & American) to modern inbreds and an F₁ hybrid.  
 
 **Treatments:**  
--    Control  
+-  Control  
 - 💧 Flooding  
 - 🐛 Herbivory (induced with *Helicoverpa zea* larvae, a jasmonate-inducing pest)  
 - ⚡ **DualStress (flooding + herbivory)**  
@@ -58,6 +58,7 @@ DualStress markedly **reduced redox potential**, inducing reductive dissolution 
   Wild and landrace genotypes maintained significantly higher chlorophyll levels compared to inbreds and hybrids (letters denote Tukey’s HSD groups, P &lt; 0.05), indicating stronger physiological resilience to stress.</em>
 </p>
 
+
 Wild and landrace maize retained higher chlorophyll content under flooding–herbivory stress, reflecting **more efficient photosynthetic performance and antioxidant capacity**.  
 Modern inbreds and hybrids exhibited **reduced chlorophyll retention**, consistent with diminished stress tolerance and weakened redox homeostasis.
 
@@ -72,8 +73,16 @@ However, VOC spectra alone could not explain resilience differences, emphasizing
 </p>
 
 <p align="center">
-  <em>Figure 2. Genotype-specific VOC emission profiles under DualStress. Wild and landrace maize emit a broader and more diverse suite of stress-induced volatiles compared to modern hybrids, reflecting stronger antioxidant and signaling capacity.</em>
+  <em>
+    Figure 2. Genotype-specific VOC emission profiles under Stress.<br>
+    <span style="font-size:90%;">
+      Domestication gradient: Wild progenitor → Wild relative → Mexican landrace → American landrace → Inbred landrace → Inbred modern → Conventional hybrid
+    </span><br><br>
+    Wild and landrace maize emit a broader and more diverse suite of stress-induced volatiles compared to modern hybrids, 
+    reflecting stronger antioxidant and signaling capacity.
+  </em>
 </p>
+
 
 
 
@@ -140,16 +149,25 @@ These results underscore that oxidative resilience arises from **genotype × mic
 
 ---
 
+### 🌾 Conclusions
+
+=======
 ### Conclusions
 Ancestral genotypes retain stronger antioxidant signaling and microbially mediated stress-buffering networks.  
-Domestication has simplified the rhizosphere, reducing **microbial network complexity** and **functional diversity** essential for oxidative resilience.  
-Future work will directly quantify **ROS/RNS in maize roots** and integrate **metagenomic/metatranscriptomic** data to map active microbial pathways tied to host antioxidant systems.
 
-> **Takeaway:** Oxidative resilience arises from *genotype × microbiome × environment* interactions — a foundation for **holobiont-guided, redox-resilient breeding**.
+Domestication has simplified the rhizosphere, reducing **microbial network complexity** and **functional diversity** essential for oxidative resilience.  
+
+
 
 ---
 
 ## 📂 Data Availability
 
  data supporting this study are available :  
+
+© 2025 Mitra Ghotbi. All rights reserved.
+The data contained herein remain the intellectual property of the author.
+Requests for access or collaboration should be directed to the author.
+=======
  [**Dataset**](https://drive.google.com/drive/folders/1jFDAiELmzVlpS2oloEV73UagBMa4jPuP?usp=sharing)
+
