@@ -13,7 +13,7 @@ Our preliminary work therefore aimed to:
 
 ##  Method
 
-A factorial greenhouse experiment evaluated **10 genotypes** spanning the domestication continuum — from *Zea mays ssp. parviglumis* (wild progenitor), *Zea diploperennis* (wild relative), and landraces (Mexican & American) to modern inbreds and an F₁ hybrid.  
+A factorial greenhouse experiment evaluated **10 genotypes** spanning the domestication continuum, from *Zea mays ssp. parviglumis* (wild progenitor), *Zea diploperennis* (wild relative), and landraces (Mexican & American) to modern inbreds and an F₁ hybrid.  
 
 **Treatments:**  
 -    Control  
