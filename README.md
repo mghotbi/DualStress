@@ -151,8 +151,7 @@ These results underscore that oxidative resilience arises from **genotype × mic
 
 ### 🌾 Conclusions
 
-=======
-### Conclusions
+
 Ancestral genotypes retain stronger antioxidant signaling and microbially mediated stress-buffering networks.  
 
 Domestication has simplified the rhizosphere, reducing **microbial network complexity** and **functional diversity** essential for oxidative resilience.  
