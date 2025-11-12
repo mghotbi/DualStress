@@ -47,6 +47,11 @@ DualStress markedly **reduced redox potential**, inducing reductive dissolution 
   <em>Figure 1. Overview of Soil Redox and Nutrient Shifts.</em>
 </p>
 
+
+
+<p align="center"> <img width="538" height="653" alt="Soil and plant trait dynamics along maize domestication" src="https://github.com/user-attachments/assets/722cc489-2505-4042-bd2f-d93fe3d4f466" /> </p> <p align="center"> <em><b>Figure.</b> Soil physicochemical properties and plant chlorophyll content (SPAD) across the maize domestication gradient under control and flooding conditions. Data illustrate shifts in nutrient availability and plant performance from wild progenitors to modern hybrids, reflecting progressive optimization of redox and nutrient dynamics. Source: Ghotbi et al., unpublished.</em> </p>
+
+
 ###  Chlorophyll Content Across the Maize Domestication Gradient
 
 <p align="center">
