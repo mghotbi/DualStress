@@ -38,18 +38,8 @@ Cross-domain integration was performed using **mixOmics/DIABLO**<sup>79</sup> to
 ###  Soil Redox and Nutrient Shifts
 DualStress markedly **reduced redox potential**, inducing reductive dissolution of Fe(III) and Mn(IV) oxides and accumulation of Fe²⁺, Mn²⁺, and NH₄⁺, while NO₃⁻ declined, indicating enhanced **denitrification** and weakened buffering capacity.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c80c02a7-1589-4e6c-a647-c8bf8b018b07" width="70%" alt="DualStress schematic">
-</p>
 
-
-<p align="center">
-  <em>Figure 1. Overview of Soil Redox and Nutrient Shifts.</em>
-</p>
-
-
-
-<p align="center"> <img width="538" height="653" alt="Soil and plant trait dynamics along maize domestication" src="https://github.com/user-attachments/assets/722cc489-2505-4042-bd2f-d93fe3d4f466" /> </p> <p align="center"> <em><b>Figure.</b> Soil physicochemical properties and plant chlorophyll content (SPAD) across the maize domestication gradient under control and flooding conditions. Data illustrate shifts in nutrient availability and plant performance from wild progenitors to modern hybrids, reflecting progressive optimization of redox and nutrient dynamics. Source: Ghotbi et al., unpublished.</em> </p>
+<p align="center"> <img width="538" height="653" alt="Soil and plant trait dynamics along maize domestication" src="https://github.com/user-attachments/assets/722cc489-2505-4042-bd2f-d93fe3d4f466" /> </p> <p align="center"> <em><b>Figure.</b> Soil physicochemical properties and plant chlorophyll content (SPAD) across the maize domestication gradient under control and flooding conditions. Data illustrate shifts in nutrient availability and plant performance from wild progenitors to modern hybrids, reflecting progressive optimization of redox and nutrient dynamics. </em> </p>
 
 
 ###  Chlorophyll Content Across the Maize Domestication Gradient
