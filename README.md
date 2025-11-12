@@ -39,19 +39,7 @@ Cross-domain integration was performed using **mixOmics/DIABLO**<sup>79</sup> to
 DualStress markedly **reduced redox potential**, inducing reductive dissolution of Fe(III) and Mn(IV) oxides and accumulation of Fe²⁺, Mn²⁺, and NH₄⁺, while NO₃⁻ declined, indicating enhanced **denitrification** and weakened buffering capacity.
 
 
-<p align="center"> <img width="538" height="653" alt="Soil and plant trait dynamics along maize domestication" src="https://github.com/user-attachments/assets/722cc489-2505-4042-bd2f-d93fe3d4f466" /> </p> <p align="center"> <em><b>Figure.</b> Soil physicochemical properties and plant chlorophyll content (SPAD) across the maize domestication gradient under control and flooding conditions. Data illustrate shifts in nutrient availability and plant performance from wild progenitors to modern hybrids, reflecting progressive optimization of redox and nutrient dynamics. </em> </p>
-
-
-###  Chlorophyll Content Across the Maize Domestication Gradient
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ec8640c2-e2a5-41de-8d92-3f531ed6f7de" width="70%" alt="Chlorophyll (SPAD) content across maize domestication gradient">
-</p>
-
-<p align="center">
-  <em>Figure 1. Chlorophyll (SPAD) index of maize genotypes spanning the domestication gradient under control (light) and DualStress (dark) conditions.  
-  Wild and landrace genotypes maintained significantly higher chlorophyll levels compared to inbreds and hybrids (letters denote Tukey’s HSD groups, P &lt; 0.05), indicating stronger physiological resilience to stress.</em>
-</p>
+<p align="center"> <img width="538" height="653" alt="Soil and plant trait dynamics along maize domestication" src="https://github.com/user-attachments/assets/722cc489-2505-4042-bd2f-d93fe3d4f466" /> </p> <p align="center"> <em><b>Figure.1 </b> Soil physicochemical properties and plant chlorophyll content (SPAD) across the maize domestication gradient under control and flooding conditions. Data illustrate shifts in nutrient availability and plant performance from wild progenitors to modern hybrids, reflecting progressive optimization of redox and nutrient dynamics. </em> </p>
 
 
 Wild and landrace maize retained higher chlorophyll content under flooding–herbivory stress, reflecting **more efficient photosynthetic performance and antioxidant capacity**.  
