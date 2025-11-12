@@ -139,7 +139,7 @@ These results indicate that **network complexity is a key ecological signature o
 <p align="center">
   <em>Figure 4. DIABLO integration linking microbial, soil, plant, and VOC datasets.  
   Cross-domain correlations reveal coordinated shifts in redox-active traits under DualStress.  
-  An <i>Anaeromyxobacter</i> ASV correlated with Fe²⁺ and Mn²⁺ concentrations, suggesting a role in coupled Fe–N redox cycling and oxidative stress mitigation.</em>
+  An <i>Anaeromyxobacter</i> ASV correlated with Fe²⁺ and Mn²⁺ concentrations, suggesting a role in coupled Fe-N redox cycling and oxidative stress mitigation.</em>
 </p>
 
 
