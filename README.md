@@ -90,7 +90,7 @@ These results indicate that **network complexity is a key ecological signature o
 
 ###  Cross-Domain Integration and Redox-Active Taxa
 
-<p align="center"> <img width="673" height="648" alt="DIABLO cross-domain integration of plant, soil, microbial, and VOC data" src="https://github.com/user-attachments/assets/3fe69122-781f-4c02-92ff-0bf9e096f2d0" /> </p> <p align="center"> <em><b>Figure 4.</b> Multi-omics integration using DIABLO reveals cross-domain linkages among microbial, soil, plant, and VOC datasets under combined stress. Positive (red) and negative (blue) correlations highlight coordinated regulation of redox-active features across trophic levels. Notably, an <i>Anaeromyxobacter</i> ASV co-varied with Fe²⁺ and Mn²⁺ concentrations, indicating its role in Fe–N coupled redox buffering and oxidative stress mitigation. Source: Ghotbi et al., unpublished.</em> </p>
+<p align="center"> <img width="673" height="648" alt="DIABLO cross-domain integration of plant, soil, microbial, and VOC data" src="https://github.com/user-attachments/assets/3fe69122-781f-4c02-92ff-0bf9e096f2d0" /> </p> <p align="center"> <em><b>Figure 4.</b> Multi-omics integration using DIABLO reveals cross-domain linkages among microbial, soil, plant, and VOC datasets under combined stress. Positive (red) and negative (blue) correlations highlight coordinated regulation of redox-active features across trophic levels. Notably, an <i>Anaeromyxobacter</i> ASV co-varied with Fe²⁺ and Mn²⁺ concentrations, indicating its role in Fe-N coupled redox buffering and oxidative stress mitigation. Source: Ghotbi et al., unpublished.</em> </p>
 
 
 Cross-domain integration uncovered tight coupling among plant physiology, soil redox chemistry, and microbiome structure.
