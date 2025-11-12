@@ -82,19 +82,6 @@ Network analyses showed that **wild maize harbored hub-rich, highly connected mi
 
 <p align="center"> <img width="882" height="557" alt="Microbial network topology across maize domestication" src="https://github.com/user-attachments/assets/39f1c117-bfed-4d51-b53e-4fc34fdb4505" /> </p> <p align="center"> <em><b>Figure 5.</b> Ancestral genotypes maintain dense and functionally integrated microbial networks. Wild and landrace maize exhibit highly connected, hub-rich communities with elevated degree, closeness, and effective size, whereas inbreds and hybrids display simplified, fragmented structures with reduced centrality and modularity. The progressive loss of network connectivity reflects the erosion of cooperative microbial interactions underpinning redox buffering and stress resilience. Source: Ghotbi et al., unpublished.</em> </p>
 
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/761638fa-c182-4415-8340-91cdb0d80062" width="75%" alt="Microbial network complexity across domestication gradient">
-</p>
-
-<p align="center">
-  <em>Figure 5. ancestral genotypes maintain dense microbial interaction networks.  
-  Wild and landrace genotypes exhibit highly connected, hub-rich networks, whereas inbreds and hybrids display simplified, fragmented structures with reduced centrality and modularity.  
-  The loss of network connectivity reflects erosion of cooperative microbial interactions linked to redox buffering and stress resilience.</em>
-</p>
-
-
 Network analyses revealed that **ancestral genotypes maintain dense microbial interaction networks** with high harmonic centrality and node connectivity, supporting robust redox regulation.  
 In contrast, **modern hybrids exhibit fragmented and less connected networks**, suggesting a loss of functional redundancy and cooperative buffering capacity.  
 These results indicate that **network complexity is a key ecological signature of oxidative resilience** across maize evolution.
