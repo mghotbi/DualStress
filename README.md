@@ -50,8 +50,8 @@ Wild and landrace genotypes emitted a broader and richer blend of stress volatil
 However, VOC spectra alone could not explain resilience differences, emphasizing the need for **direct ROS/RNS phenotyping**.
 
 
-<p align="center"> <img width="227" height="414" alt="Volatile organic compound profiles across domestication and flooding" src="https://github.com/user-attachments/assets/300c21ad-cda6-4068-91d2-86b44b68c3ba" /> </p> <p align="center"> <em><b>Figure.</b> Volatile organic compound (VOC) emission profiles across the maize domestication gradient under control and flooding conditions. The heatmap shows relative emission intensities of individual VOCs (rows) across genotypes (columns). Flooding markedly alters the abundance and composition of emitted compounds, with wild and landrace maize maintaining broader and more diverse VOC repertoires than modern hybrids. Source: Ghotbi et al., unpublished.</em> </p>
-      Domestication gradient: Wild progenitor → Wild relative → Mexican landrace → American landrace → Inbred landrace → Inbred modern → Conventional hybrid
+<p align="center"> <img width="500" height="910" alt="Volatile organic compound profiles across domestication and flooding" src="https://github.com/user-attachments/assets/300c21ad-cda6-4068-91d2-86b44b68c3ba" /> </p> <p align="center"> <em><b>Figure.2 </b> Volatile organic compound (VOC) emission profiles across the maize domestication gradient under control and flooding conditions. The heatmap shows relative emission intensities of individual VOCs (rows) across genotypes (columns). Flooding markedly alters both the abundance and diversity of emitted compounds, with wild and landrace maize maintaining broader and more complex VOC repertoires compared to modern hybrids. Source: Ghotbi et al., unpublished.</em> </p>
+       Domestication gradient: Wild progenitor → Wild relative → Mexican landrace → American landrace → Inbred landrace → Inbred modern → Conventional hybrid
 
 
 ###  Microbial and Functional Responses
