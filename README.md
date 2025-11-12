@@ -100,20 +100,12 @@ These results indicate that **network complexity is a key ecological signature o
 ###  Cross-Domain Integration and Redox-Active Taxa
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/239105e9-2d84-4217-85d2-2dc365d48a25" width="70%" alt="DIABLO cross-domain integration of plant, soil, microbial, and VOC data">
-</p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/239105e9-2d84-4217-85d2-2dc365d48a25" width="90%" alt="DIABLO cross-domain integration of plant, soil, microbial, and VOC data"> </p> <p align="center"> <em><b>Figure 4.</b> Multi-omics integration using DIABLO reveals cross-domain linkages among microbial, soil, plant, and VOC datasets under combined stress. Positive (red) and negative (blue) correlations highlight coordinated regulation of redox-active features across trophic levels. Notably, an <i>Anaeromyxobacter</i> ASV co-varied with Fe²⁺ and Mn²⁺ concentrations, indicating its role in Fe–N coupled redox buffering and oxidative stress mitigation. Source: Ghotbi et al., unpublished.</em> </p>
 
-<p align="center">
-  <em>Figure 4. DIABLO integration linking microbial, soil, plant, and VOC datasets.  
-  Cross-domain correlations reveal coordinated shifts in redox-active traits under DualStress.  
-  An <i>Anaeromyxobacter</i> ASV correlated with Fe²⁺ and Mn²⁺ concentrations, suggesting a role in coupled Fe-N redox cycling and oxidative stress mitigation.</em>
-</p>
+Cross-domain integration uncovered tight coupling among plant physiology, soil redox chemistry, and microbiome structure.
+An Anaeromyxobacter ASV exhibited strong covariance with Fe²⁺ and Mn²⁺ levels, implicating it in metal- and nitrogen-linked redox regulation.
+These findings demonstrate that oxidative resilience in maize arises from genotype × microbiome × environment interactions that collectively stabilize rhizosphere redox homeostasis.
 
-
-DIABLO integration highlighted **tight coupling among plant physiology, soil redox chemistry, and microbiome structure**.  
-An *Anaeromyxobacter* ASV strongly co-varied with Fe²⁺ and Mn²⁺ levels, indicating participation in **metal- and nitrogen-linked redox buffering**.  
-These results underscore that oxidative resilience arises from **genotype × microbiome × environment** interactions coordinating system-level redox homeostasis.
 
 ---
 
