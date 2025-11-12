@@ -49,22 +49,9 @@ Modern inbreds and hybrids exhibited **reduced chlorophyll retention**, consiste
 Wild and landrace genotypes emitted a broader and richer blend of stress volatiles (e.g., **trans-α-bergamotene**, **(E)-β-farnesene**, **caryophyllene**, **indole**) than modern lines, supporting **semiochemical** signaling and **microbe-mediated communication**<sup>5,86</sup>.  
 However, VOC spectra alone could not explain resilience differences, emphasizing the need for **direct ROS/RNS phenotyping**.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/599291f9-714c-41c6-bd20-89b6bf8ebdc5" width="70%" alt="VOC emission profiles">
-</p>
 
-<p align="center">
-  <em>
-    Figure 2. Genotype-specific VOC emission profiles under Stress.<br>
-    <span style="font-size:90%;">
+<p align="center"> <img width="227" height="414" alt="Volatile organic compound profiles across domestication and flooding" src="https://github.com/user-attachments/assets/300c21ad-cda6-4068-91d2-86b44b68c3ba" /> </p> <p align="center"> <em><b>Figure.</b> Volatile organic compound (VOC) emission profiles across the maize domestication gradient under control and flooding conditions. The heatmap shows relative emission intensities of individual VOCs (rows) across genotypes (columns). Flooding markedly alters the abundance and composition of emitted compounds, with wild and landrace maize maintaining broader and more diverse VOC repertoires than modern hybrids. Source: Ghotbi et al., unpublished.</em> </p>
       Domestication gradient: Wild progenitor → Wild relative → Mexican landrace → American landrace → Inbred landrace → Inbred modern → Conventional hybrid
-    </span><br><br>
-    Wild and landrace maize emit a broader and more diverse suite of stress-induced volatiles compared to modern hybrids, 
-    reflecting stronger antioxidant and signaling capacity.
-  </em>
-</p>
-
-
 
 
 ###  Microbial and Functional Responses
