@@ -1,12 +1,12 @@
-# 🌾 DualStress (Biotic + Abiotic Stressors)
+# 🌾 DualStress 
 
  **Background and Aim**  
-Climate change is intensifying rainfall extremes in major maize-growing regions, increasing the likelihood of concurrent **flooding and herbivory**—a dual stress that disrupts redox balance and undermines yield stability<sup>5,12</sup>.  
-While maize responses to individual stresses are well studied, the coordination of **redox buffering between plant genotype and rhizosphere microbiome** under combined stress remains poorly understood<sup>38,82</sup>.  
+Climate change is intensifying rainfall extremes in major maize-growing regions, increasing the likelihood of **flooding ** stress that disrupts redox balance and undermines yield stability<sup>5,12</sup>.  
+While maize responses to individual stresses are well studied, the coordination of **redox buffering between plant genotype and rhizosphere microbiome** under stress remains poorly understood<sup>38,82</sup>.  
 Repeated domestication and breeding have eroded both genetic and microbial diversity<sup>4,17</sup>, weakening ancestral plant-microbe alliances crucial for oxidative resilience.  
 
 Our preliminary work therefore aimed to:  
-1. Quantify how combined flooding-herbivory stress (**DualStress**) alters **soil redox chemistry**, **volatile organic compound (VOC) signaling**, and **rhizosphere microbial structure** along the maize domestication gradient.  
+1. Quantify how flooding stress alters **soil redox chemistry**, **volatile organic compound (VOC) signaling**, and **rhizosphere microbial structure** along the maize domestication gradient.  
 2. Identify **microbial and functional gene signatures** (*nosZ*, *acdS*) linked to redox homeostasis and stress tolerance.
 
 ---
@@ -18,8 +18,6 @@ A factorial greenhouse experiment evaluated **10 genotypes** spanning the domest
 **Treatments:**  
 -  Control  
 - 💧 Flooding  
-- 🐛 Herbivory (induced with *Helicoverpa zea* larvae, a jasmonate-inducing pest)  
-- ⚡ **DualStress (flooding + herbivory)**  
 
 **Measurements:**  
 - Plant performance: biomass, SPAD chlorophyll index  
@@ -36,30 +34,13 @@ Cross-domain integration was performed using **mixOmics/DIABLO**<sup>79</sup> to
 ##  Results and Discussion
 
 ###  Soil Redox and Nutrient Shifts
-DualStress markedly **reduced redox potential**, inducing reductive dissolution of Fe(III) and Mn(IV) oxides and accumulation of Fe²⁺, Mn²⁺, and NH₄⁺, while NO₃⁻ declined — indicating enhanced **denitrification** and weakened buffering capacity.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c80c02a7-1589-4e6c-a647-c8bf8b018b07" width="70%" alt="DualStress schematic">
-</p>
+Flooding markedly **reduced redox potential**, inducing reductive dissolution of Fe(III) and Mn(IV) oxides and accumulation of Fe²⁺, Mn²⁺, and NH₄⁺, while NO₃⁻ declined, indicating enhanced **denitrification** and weakened buffering capacity.
 
 
-<p align="center">
-  <em>Figure 1. Overview of Soil Redox and Nutrient Shifts.</em>
-</p>
-
-###  Chlorophyll Content Across the Maize Domestication Gradient
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ec8640c2-e2a5-41de-8d92-3f531ed6f7de" width="70%" alt="Chlorophyll (SPAD) content across maize domestication gradient">
-</p>
-
-<p align="center">
-  <em>Figure 1. Chlorophyll (SPAD) index of maize genotypes spanning the domestication gradient under control (light) and DualStress (dark) conditions.  
-  Wild and landrace genotypes maintained significantly higher chlorophyll levels compared to inbreds and hybrids (letters denote Tukey’s HSD groups, P &lt; 0.05), indicating stronger physiological resilience to stress.</em>
-</p>
+<p align="center"> <img width="538" height="653" alt="Soil and plant trait dynamics along maize domestication" src="https://github.com/user-attachments/assets/722cc489-2505-4042-bd2f-d93fe3d4f466" /> </p> <p align="center"> <em><b>Figure.1 </b> Soil physicochemical properties and plant chlorophyll content (SPAD) across the maize domestication gradient under control and flooding conditions. Data illustrate shifts in nutrient availability and plant performance from wild progenitors to modern hybrids, reflecting progressive optimization of redox and nutrient dynamics. </em> </p>
 
 
-Wild and landrace maize retained higher chlorophyll content under flooding–herbivory stress, reflecting **more efficient photosynthetic performance and antioxidant capacity**.  
+Wild and landrace maize retained higher chlorophyll content under flooding stress, reflecting **more efficient photosynthetic performance and antioxidant capacity**.  
 Modern inbreds and hybrids exhibited **reduced chlorophyll retention**, consistent with diminished stress tolerance and weakened redox homeostasis.
 
 ---
@@ -68,22 +49,9 @@ Modern inbreds and hybrids exhibited **reduced chlorophyll retention**, consiste
 Wild and landrace genotypes emitted a broader and richer blend of stress volatiles (e.g., **trans-α-bergamotene**, **(E)-β-farnesene**, **caryophyllene**, **indole**) than modern lines, supporting **semiochemical** signaling and **microbe-mediated communication**<sup>5,86</sup>.  
 However, VOC spectra alone could not explain resilience differences, emphasizing the need for **direct ROS/RNS phenotyping**.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/599291f9-714c-41c6-bd20-89b6bf8ebdc5" width="70%" alt="VOC emission profiles">
-</p>
 
-<p align="center">
-  <em>
-    Figure 2. Genotype-specific VOC emission profiles under Stress.<br>
-    <span style="font-size:90%;">
-      Domestication gradient: Wild progenitor → Wild relative → Mexican landrace → American landrace → Inbred landrace → Inbred modern → Conventional hybrid
-    </span><br><br>
-    Wild and landrace maize emit a broader and more diverse suite of stress-induced volatiles compared to modern hybrids, 
-    reflecting stronger antioxidant and signaling capacity.
-  </em>
-</p>
-
-
+<p align="center"> <img width="500" height="910" alt="Volatile organic compound profiles across domestication and flooding" src="https://github.com/user-attachments/assets/300c21ad-cda6-4068-91d2-86b44b68c3ba" /> </p> <p align="center"> <em><b>Figure.2 </b> Volatile organic compound (VOC) emission profiles across the maize domestication gradient under control and flooding conditions. The heatmap shows relative emission intensities of individual VOCs (rows) across genotypes (columns). Flooding markedly alters both the abundance and diversity of emitted compounds, with wild and landrace maize maintaining broader and more complex VOC repertoires compared to modern hybrids. Source: Ghotbi et al., unpublished.</em> </p>
+Domestication gradient: Wild progenitor → Wild relative → Mexican landrace → American landrace → Inbred landrace → Inbred modern → Conventional hybrid
 
 
 ###  Microbial and Functional Responses
@@ -112,16 +80,7 @@ Network analyses showed that **wild maize harbored hub-rich, highly connected mi
 
 ##  Network Complexity and Functional Connectivity
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/761638fa-c182-4415-8340-91cdb0d80062" width="75%" alt="Microbial network complexity across domestication gradient">
-</p>
-
-<p align="center">
-  <em>Figure 5. ancestral genotypes maintain dense microbial interaction networks.  
-  Wild and landrace genotypes exhibit highly connected, hub-rich networks, whereas inbreds and hybrids display simplified, fragmented structures with reduced centrality and modularity.  
-  The loss of network connectivity reflects erosion of cooperative microbial interactions linked to redox buffering and stress resilience.</em>
-</p>
-
+<p align="center"> <img width="782" height="457" alt="Microbial network topology across maize domestication" src="https://github.com/user-attachments/assets/39f1c117-bfed-4d51-b53e-4fc34fdb4505" /> </p> <p align="center"> <em><b>Figure 5.</b> Ancestral genotypes maintain dense and functionally integrated microbial networks. Wild and landrace maize exhibit highly connected, hub-rich communities with elevated degree, closeness, and effective size, whereas inbreds and hybrids display simplified, fragmented structures with reduced centrality and modularity. The progressive loss of network connectivity reflects the erosion of cooperative microbial interactions underpinning redox buffering and stress resilience. Source: Ghotbi et al., unpublished.</em> </p>
 
 Network analyses revealed that **ancestral genotypes maintain dense microbial interaction networks** with high harmonic centrality and node connectivity, supporting robust redox regulation.  
 In contrast, **modern hybrids exhibit fragmented and less connected networks**, suggesting a loss of functional redundancy and cooperative buffering capacity.  
@@ -131,28 +90,19 @@ These results indicate that **network complexity is a key ecological signature o
 
 ###  Cross-Domain Integration and Redox-Active Taxa
 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/239105e9-2d84-4217-85d2-2dc365d48a25" width="70%" alt="DIABLO cross-domain integration of plant, soil, microbial, and VOC data">
-</p>
-
-<p align="center">
-  <em>Figure 4. DIABLO integration linking microbial, soil, plant, and VOC datasets.  
-  Cross-domain correlations reveal coordinated shifts in redox-active traits under DualStress.  
-  An <i>Anaeromyxobacter</i> ASV correlated with Fe²⁺ and Mn²⁺ concentrations, suggesting a role in coupled Fe–N redox cycling and oxidative stress mitigation.</em>
-</p>
+<p align="center"> <img width="673" height="648" alt="DIABLO cross-domain integration of plant, soil, microbial, and VOC data" src="https://github.com/user-attachments/assets/3fe69122-781f-4c02-92ff-0bf9e096f2d0" /> </p> <p align="center"> <em><b>Figure 4.</b> Multi-omics integration using DIABLO reveals cross-domain linkages among microbial, soil, plant, and VOC datasets under combined stress. Positive (red) and negative (blue) correlations highlight coordinated regulation of redox-active features across trophic levels. Notably, an <i>Anaeromyxobacter</i> ASV co-varied with Fe²⁺ and Mn²⁺ concentrations, indicating its role in Fe-N coupled redox buffering and oxidative stress mitigation. Source: Ghotbi et al., unpublished.</em> </p>
 
 
-DIABLO integration highlighted **tight coupling among plant physiology, soil redox chemistry, and microbiome structure**.  
-An *Anaeromyxobacter* ASV strongly co-varied with Fe²⁺ and Mn²⁺ levels, indicating participation in **metal- and nitrogen-linked redox buffering**.  
-These results underscore that oxidative resilience arises from **genotype × microbiome × environment** interactions coordinating system-level redox homeostasis.
+Cross-domain integration uncovered tight coupling among plant physiology, soil redox chemistry, and microbiome structure.
+An Anaeromyxobacter ASV exhibited strong covariance with Fe²⁺ and Mn²⁺ levels, implicating it in metal- and nitrogen-linked redox regulation.
+These findings demonstrate that oxidative resilience in maize arises from genotype × microbiome × environment interactions that collectively stabilize rhizosphere redox homeostasis.
+
 
 ---
 
 ### 🌾 Conclusions
 
-=======
-### Conclusions
+
 Ancestral genotypes retain stronger antioxidant signaling and microbially mediated stress-buffering networks.  
 
 Domestication has simplified the rhizosphere, reducing **microbial network complexity** and **functional diversity** essential for oxidative resilience.  
@@ -168,6 +118,6 @@ Domestication has simplified the rhizosphere, reducing **microbial network compl
 © 2025 Mitra Ghotbi. All rights reserved.
 The data contained herein remain the intellectual property of the author.
 Requests for access or collaboration should be directed to the author.
-=======
+
  [**Dataset**](https://drive.google.com/drive/folders/1jFDAiELmzVlpS2oloEV73UagBMa4jPuP?usp=sharing)
 
