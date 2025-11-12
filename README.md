@@ -1,12 +1,12 @@
 # 🌾 DualStress 
 
  **Background and Aim**  
-Climate change is intensifying rainfall extremes in major maize-growing regions, increasing the likelihood of concurrent **flooding and herbivory** a dual stress that disrupts redox balance and undermines yield stability<sup>5,12</sup>.  
-While maize responses to individual stresses are well studied, the coordination of **redox buffering between plant genotype and rhizosphere microbiome** under combined stress remains poorly understood<sup>38,82</sup>.  
+Climate change is intensifying rainfall extremes in major maize-growing regions, increasing the likelihood of **flooding ** stress that disrupts redox balance and undermines yield stability<sup>5,12</sup>.  
+While maize responses to individual stresses are well studied, the coordination of **redox buffering between plant genotype and rhizosphere microbiome** under stress remains poorly understood<sup>38,82</sup>.  
 Repeated domestication and breeding have eroded both genetic and microbial diversity<sup>4,17</sup>, weakening ancestral plant-microbe alliances crucial for oxidative resilience.  
 
 Our preliminary work therefore aimed to:  
-1. Quantify how combined flooding-herbivory stress (**DualStress**) alters **soil redox chemistry**, **volatile organic compound (VOC) signaling**, and **rhizosphere microbial structure** along the maize domestication gradient.  
+1. Quantify how flooding stress alters **soil redox chemistry**, **volatile organic compound (VOC) signaling**, and **rhizosphere microbial structure** along the maize domestication gradient.  
 2. Identify **microbial and functional gene signatures** (*nosZ*, *acdS*) linked to redox homeostasis and stress tolerance.
 
 ---
@@ -18,8 +18,6 @@ A factorial greenhouse experiment evaluated **10 genotypes** spanning the domest
 **Treatments:**  
 -  Control  
 - 💧 Flooding  
-- 🐛 Herbivory (induced with *Helicoverpa zea* larvae, a jasmonate-inducing pest)  
-- ⚡ **DualStress (flooding + herbivory)**  
 
 **Measurements:**  
 - Plant performance: biomass, SPAD chlorophyll index  
@@ -36,13 +34,13 @@ Cross-domain integration was performed using **mixOmics/DIABLO**<sup>79</sup> to
 ##  Results and Discussion
 
 ###  Soil Redox and Nutrient Shifts
-DualStress markedly **reduced redox potential**, inducing reductive dissolution of Fe(III) and Mn(IV) oxides and accumulation of Fe²⁺, Mn²⁺, and NH₄⁺, while NO₃⁻ declined, indicating enhanced **denitrification** and weakened buffering capacity.
+Flooding markedly **reduced redox potential**, inducing reductive dissolution of Fe(III) and Mn(IV) oxides and accumulation of Fe²⁺, Mn²⁺, and NH₄⁺, while NO₃⁻ declined, indicating enhanced **denitrification** and weakened buffering capacity.
 
 
 <p align="center"> <img width="538" height="653" alt="Soil and plant trait dynamics along maize domestication" src="https://github.com/user-attachments/assets/722cc489-2505-4042-bd2f-d93fe3d4f466" /> </p> <p align="center"> <em><b>Figure.1 </b> Soil physicochemical properties and plant chlorophyll content (SPAD) across the maize domestication gradient under control and flooding conditions. Data illustrate shifts in nutrient availability and plant performance from wild progenitors to modern hybrids, reflecting progressive optimization of redox and nutrient dynamics. </em> </p>
 
 
-Wild and landrace maize retained higher chlorophyll content under flooding–herbivory stress, reflecting **more efficient photosynthetic performance and antioxidant capacity**.  
+Wild and landrace maize retained higher chlorophyll content under flooding stress, reflecting **more efficient photosynthetic performance and antioxidant capacity**.  
 Modern inbreds and hybrids exhibited **reduced chlorophyll retention**, consistent with diminished stress tolerance and weakened redox homeostasis.
 
 ---
