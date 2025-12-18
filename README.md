@@ -65,7 +65,7 @@ Fungal richness and *nosZ*/*acdS* gene abundance **declined along domestication*
 </p>
 
 <p align="center">
-  <em>**Figure 3.** (A) PCoA of bacterial (16S) and fungal (ITS) communities showing clear separation by treatment (T) and domestication (D).  
+  <em><b>Figure.3 </b> (A) PCoA of bacterial (16S) and fungal (ITS) communities showing clear separation by treatment (T) and domestication (D).  
   (B) Relative abundance of *nosZ* (denitrifiers), *acdS* (ACC deaminase producers), 16S rRNA (bacterial), and ITS (fungal) genes modeled using GAMs (±95% CI).  
   (C) Core fungal families (≥80% prevalence, ≥10 reads) across maize domestication groups and stress treatments.</em>
 </p>
