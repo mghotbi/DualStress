@@ -65,7 +65,7 @@ Fungal richness and *nosZ*/*acdS* gene abundance **declined along domestication*
 </p>
 
 <p align="center">
-  <em>Figure 3. (A) PCoA of bacterial (16S) and fungal (ITS) communities showing clear separation by treatment (T) and domestication (D).  
+  <em>**Figure 3.** (A) PCoA of bacterial (16S) and fungal (ITS) communities showing clear separation by treatment (T) and domestication (D).  
   (B) Relative abundance of *nosZ* (denitrifiers), *acdS* (ACC deaminase producers), 16S rRNA (bacterial), and ITS (fungal) genes modeled using GAMs (±95% CI).  
   (C) Core fungal families (≥80% prevalence, ≥10 reads) across maize domestication groups and stress treatments.</em>
 </p>
@@ -80,7 +80,7 @@ Network analyses showed that **wild maize harbored hub-rich, highly connected mi
 
 ##  Network Complexity and Functional Connectivity
 
-<p align="center"> <img width="782" height="457" alt="Microbial network topology across maize domestication" src="https://github.com/user-attachments/assets/39f1c117-bfed-4d51-b53e-4fc34fdb4505" /> </p> <p align="center"> <em><b>Figure 5.</b> Ancestral genotypes maintain dense and functionally integrated microbial networks. Wild and landrace maize exhibit highly connected, hub-rich communities with elevated degree, closeness, and effective size, whereas inbreds and hybrids display simplified, fragmented structures with reduced centrality and modularity. The progressive loss of network connectivity reflects the erosion of cooperative microbial interactions underpinning redox buffering and stress resilience.</em> </p>
+<p align="center"> <img width="782" height="457" alt="Microbial network topology across maize domestication" src="https://github.com/user-attachments/assets/39f1c117-bfed-4d51-b53e-4fc34fdb4505" /> </p> <p align="center"> <em><b>Figure 4.</b> Ancestral genotypes maintain dense and functionally integrated microbial networks. Wild and landrace maize exhibit highly connected, hub-rich communities with elevated degree, closeness, and effective size, whereas inbreds and hybrids display simplified, fragmented structures with reduced centrality and modularity. The progressive loss of network connectivity reflects the erosion of cooperative microbial interactions underpinning redox buffering and stress resilience.</em> </p>
 
 Network analyses revealed that **ancestral genotypes maintain dense microbial interaction networks** with high harmonic centrality and node connectivity, supporting robust redox regulation.  
 In contrast, **modern hybrids exhibit fragmented and less connected networks**, suggesting a loss of functional redundancy and cooperative buffering capacity.  
