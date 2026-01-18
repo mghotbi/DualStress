@@ -1,4 +1,12 @@
 # 🌾 DualStress 
+Compound Redox Stress in Plants: Convergent Mechanisms of Enzymatic and Genetic Dysregulation
+Introduction
+
+Plants are evolutionarily wired to buffer single environmental stressors-drought, heat, flooding, or pathogen attack—through compartmentalized redox control. However, when multiple stressors coincide, the balance among reactive oxygen (ROS), nitrogen (RNS), and sulfur species (RSS) collapses into a nitro-oxidative and electrophilic storm. The overlapping signaling networks of these molecules, while essential under mild stress, become maladaptive when electron demand, metabolic flux, and antioxidant capacity diverge.
+
+Compound stress thus represents not a sum, but an emergent oxidative state, where redox buffering is exceeded, peroxynitrite (ONOO⁻) formation accelerates, and enzymes, transcripts, and signaling cascades undergo irreversible modification. Each stress combination imposes distinct biochemical signatures“redox fingerprints” through specific convergence of metabolic, enzymatic, and gene-regulatory events.
+
+Here we first discuss an individual stressor 
 
  **Background and Aim**  
 Climate change is intensifying rainfall extremes in major maize-growing regions, increasing the likelihood of **flooding ** stress that disrupts redox balance and undermines yield stability<sup>5,12</sup>.  
