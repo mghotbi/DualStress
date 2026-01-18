@@ -1,4 +1,4 @@
-# 🌾 DualStress 
+# DualStress 
 Compound Redox Stress in Plants: Convergent Mechanisms of Enzymatic and Genetic Dysregulation
 Introduction
 
