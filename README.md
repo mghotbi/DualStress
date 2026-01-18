@@ -1,4 +1,4 @@
-# 🌾 Abiotic stress
+#  Abiotic stress
 
  **Background and Aim**  
 Climate change is intensifying rainfall extremes in major maize-growing regions, increasing the likelihood of **flooding ** stress that disrupts redox balance and undermines yield stability<sup>5,12</sup>.  
